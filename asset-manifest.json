@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Course-Player/static/css/main.696a61fe.chunk.css",
+    "main.css": "/Course-Player/static/css/main.235dd6d1.chunk.css",
     "main.js": "/Course-Player/static/js/main.cf46b64c.chunk.js",
     "main.js.map": "/Course-Player/static/js/main.cf46b64c.chunk.js.map",
     "runtime-main.js": "/Course-Player/static/js/runtime-main.8a91e1df.js",
@@ -8,13 +8,13 @@
     "static/js/2.80aca4c5.chunk.js": "/Course-Player/static/js/2.80aca4c5.chunk.js",
     "static/js/2.80aca4c5.chunk.js.map": "/Course-Player/static/js/2.80aca4c5.chunk.js.map",
     "index.html": "/Course-Player/index.html",
-    "static/css/main.696a61fe.chunk.css.map": "/Course-Player/static/css/main.696a61fe.chunk.css.map",
+    "static/css/main.235dd6d1.chunk.css.map": "/Course-Player/static/css/main.235dd6d1.chunk.css.map",
     "static/js/2.80aca4c5.chunk.js.LICENSE.txt": "/Course-Player/static/js/2.80aca4c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8a91e1df.js",
     "static/js/2.80aca4c5.chunk.js",
-    "static/css/main.696a61fe.chunk.css",
+    "static/css/main.235dd6d1.chunk.css",
     "static/js/main.cf46b64c.chunk.js"
   ]
 }
