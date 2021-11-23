@@ -150,3 +150,18 @@
   margin-top: 20px;
   padding: 10px;
 }
+@media only screen and (max-width: 600px) {
+  .dashboard {
+    width: 100%;
+    flex-direction: column;
+    video {
+      width: 100%;
+    }
+    div {
+      width: 100% !important;
+      h1 {
+        width: 95%;
+      }
+    }
+  }
+}
